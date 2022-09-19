@@ -6,7 +6,9 @@
     </a>
 </h1>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2f0829ff-3941-45cd-8e3f-d84c48842de2/deploy-status)](https://app.netlify.com/sites/fortiestudios/deploys)
+<h1 align="center">
+    [![Netlify Status](https://api.netlify.com/api/v1/badges/2f0829ff-3941-45cd-8e3f-d84c48842de2/deploy-status)](https://app.netlify.com/sites/fortiestudios/deploys)
+</h1>
 
 <p align="center">
     <b><a href="CONTRIBUTING.md">Contributing Guide</a></b>
