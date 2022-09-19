@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <a href="https://github.com/fortiesstudios" target="_blank">
-        <img height="60%" width="60%" src="https://raw.githubusercontent.com/fortiesstudios/studio-website/main/src/images/banner-corner-60px.png?token=GHSAT0AAAAAABXJTCFCSPR5KJ7MN443VQBOYZITRLQ"><br>
+        <img height="60%" width="60%" src="https://raw.githubusercontent.com/fortiesstudios/studio-website/be36ebd5d67c3c595d4888ea0a0e917b41c545fb/src/images/banner-corner-60px.png?token=AR2PKMUHJY3ACPIFYYNFFSLDFCPF2"><br>
     </a>
 </h1>
 
