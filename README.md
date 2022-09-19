@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-    <b><a href="CONTRIBUTING.md">Contributing Guide</a></b>
+    <b><a href="CONTRIBUTING.md">Contributing Guide</a> • <a href="src/images/README.md">Image License</a></b>
 </p>
 
 <p align="center">
