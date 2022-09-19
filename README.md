@@ -5,6 +5,7 @@
         <img height="60%" width="60%" src="https://raw.githubusercontent.com/fortiesstudios/studio-website/main/src/images/banner-corner-60px.png?token=GHSAT0AAAAAABXJTCFCSPR5KJ7MN443VQBOYZITRLQ"><br>
     </a>
 </h1>
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2f0829ff-3941-45cd-8e3f-d84c48842de2/deploy-status)](https://app.netlify.com/sites/fortiestudios/deploys)
 
 <p align="center">
