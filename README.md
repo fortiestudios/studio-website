@@ -18,4 +18,4 @@
 
 ### Contact
 
-You can contact the developers of 40's Studios website at our <b><a href="https://discord.gg/XnbXNQM">Discord</a></b>. If you have any questions, feel free to ask.
+You can contact the developers of 40's Studios website at our <b><a href="https://discord.com/invite/wDNqXZ7wpq">Discord</a></b>. If you have any questions, feel free to ask.
